@@ -14,6 +14,6 @@ To run the Transform you must set 'main' as the initial template.
 
 Example using Saxon:
 
-java -jar saxonhe-9.3.0.4-j.jar pathToCSV=/tmp/a.csv -xsl:csv-to-xml_v3.xsl -it:main -o:a.xml
+java -jar saxonhe-9.3.0.4-j.jar pathToCSV=/tmp/a.csv -xsl:csv-to-xml_v3.xsl -it:main -o:/tmp/a.xml
 
 The above transforms the file /tmp/a.csv to the file /tmp/a.xml
