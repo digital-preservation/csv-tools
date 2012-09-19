@@ -3,7 +3,7 @@ csv-tools
 
 Tools for working with CSV files.
 
-At the moment just csv2xslt.xml which is an XSLT 2.0 Stylesheet for transforming CSV files to XML.
+At the moment just csv-to-xml_v3.xsl which is an XSLT 2.0 Stylesheet for transforming CSV files to XML.
 
 How to use
 ==========
